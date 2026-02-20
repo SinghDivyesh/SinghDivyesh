@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Divyesh Singh
 
-<!--
-**SinghDivyesh/SinghDivyesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android & Flutter Mobile App Developer
 
-Here are some ideas to get you started:
+I build real-world mobile applications using **Kotlin, Flutter, and Firebase**.
+My focus is creating complete apps — authentication, database, UI, and live data handling — not just UI clones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Languages:** Kotlin, Java, Dart, SQL
+**Mobile:** Android SDK, Flutter
+**Backend/Database:** Firebase Authentication, Firebase Realtime Database, Cloud Firestore
+**Tools:** Git, GitHub, Android Studio, VS Code
+
+---
+
+## 📱 Featured Projects
+
+### 🧑‍💼 SkillFlex – Freelancer Marketplace App
+
+* Multi-role login (Freelancer & Client)
+* Firebase Authentication
+* Realtime user profile database
+* Role-based dashboards
+* Session persistence
+
+### 🏏 Cricket Scoring App
+
+* Ball-by-ball scoring system
+* Live match updates (Cloud Firestore)
+* Wicket & over management
+* Full scorecard & player stats
+* Match state handling
+
+---
+
+## 📊 What I’m Currently Learning
+
+* Clean Architecture in Android
+* State Management in Flutter
+* REST API integration
+* Advanced Firebase
+
+---
+
+## 📫 Contact Me
+
+Email: **[singhdivyesh85@gmail.com](mailto:singhdivyesh85@gmail.com)**
+LinkedIn: **https://www.linkedin.com/in/singh-divyesh-342b08298**
+
+---
+
+⭐ I am currently looking for **Android Developer / Flutter Developer Internship or Fresher Role**
